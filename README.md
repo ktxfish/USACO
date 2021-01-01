@@ -51,15 +51,15 @@
         </tr>
         <tr>
             <td>2017 US Open</td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
+            <td><a href="bronze/17open/the-lost-cow.cpp">The Lost Cow</a></td>
+            <td><a href="bronze/17open/bovine-genomics.cpp">Bovine Genomics</a></td>
+            <td><a href="bronze/17open/modern-art.cpp">Modern Art</a></td>
         </tr>
         <tr>
             <td>2017 December</td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
+            <td><a href="bronze/17dec/blocked-billboard.cpp">Blocked Billboard</a></td>
+            <td><a href="bronze/17dec/the-bovine-shuffle.cpp">The Bovine Shuffle</a></td>
+            <td><a href="bronze/17dec/milk-measurement.cpp">Milk Measurement</a></td>
         </tr>
         <tr>
             <td>2018 January</td>
