@@ -63,15 +63,15 @@
         </tr>
         <tr>
             <td>2018 January</td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
+            <td><a href="bronze/18jan/blocked-billboard-ii.cpp">Blocked Billboard II</a></td>
+            <td><a href="bronze/18jan/lifeguards.cpp">Lifeguards</a></td>
+            <td><a href="bronze/18jan/out-of-place.cpp">Out of Place</a></td>
         </tr>
         <tr>
             <td>2018 February</td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
+            <td><a href="bronze/18feb/teleportation.cpp">Teleportation</a></td>
+            <td><a href="bronze/18feb/hoofball.cpp">Hoofball</a></td>
+            <td><a href="bronze/18feb/taming-the-herd.cpp">Taming the Herd</a></td>
         </tr>
         <tr>
             <td>2018 US Open</td>
